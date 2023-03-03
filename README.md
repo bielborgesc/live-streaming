@@ -8,3 +8,7 @@ Passos:
 (Esse comando atualiza o gerenciador pip)
 - pip install django==3.2
 (Esse comando instala o Django)
+- django-admin startproject mysite
+(Criar os arquivos principais do site)
+- cd mysite e python manage.py startapp chat
+(Para criar a pasta do chat)
